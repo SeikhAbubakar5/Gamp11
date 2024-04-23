@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "latitude": 28.7041,
+      "longitude": 77.1025
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "photo": "https://randomuser.me/api/portraits/men/3.jpg",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "photo": "https://randomuser.me/api/portraits/women/4.jpg",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "latitude": 17.3850,
+      "longitude": 78.4867
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "photo": "https://randomuser.me/api/portraits/men/5.jpg",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "latitude": 23.0225,
+      "longitude": 72.5714
+    },
+    {
+      "id": 6,
+      "name": "Sarah Taylor",
+      "photo": "https://randomuser.me/api/portraits/women/6.jpg",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    },
+    {
+      "id": 7,
+      "name": "Daniel Martinez",
+      "photo": "https://randomuser.me/api/portraits/men/7.jpg",
+      "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+      "latitude": 22.5726,
+      "longitude": 88.3639
+    },
+    {
+      "id": 8,
+      "name": "Jessica Rodriguez",
+      "photo": "https://randomuser.me/api/portraits/women/8.jpg",
+      "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "latitude": 21.1702,
+      "longitude": 72.8311
+    },
+    {
+      "id": 9,
+      "name": "Christopher Lee",
+      "photo": "https://randomuser.me/api/portraits/men/9.jpg",
+      "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+      "latitude": 18.5204,
+      "longitude": 73.8567
+    },
+    {
+      "id": 10,
+      "name": "Amanda White",
+      "photo": "https://randomuser.me/api/portraits/women/10.jpg",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi.",
+      "latitude": 26.9124,
+      "longitude": 75.7873
+    }
+    
+  ]
+}
